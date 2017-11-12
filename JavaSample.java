@@ -4,6 +4,6 @@ class AddTwoNum{
   {
     int a,b,add;
     add= 3+4;
-    System.out.println("Addition is: " + add);
+    System.out.println("Addition is " + add);
   }
 }
